@@ -487,6 +487,21 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
+## Professional Infrastructure Services
+
+**Petronella Technology Group** builds enterprise and homelab infrastructure:
+
+- [Hardware Systems](https://petronellatech.com/hardware/) - Servers, GPUs, and workstations
+- [AI Infrastructure](https://petronellatech.com/ai/ai-services/) - GPU clusters and AI deployment
+- [NVIDIA DGX Systems](https://petronellatech.com/hardware/nvidia-dgx/) - Enterprise AI supercomputers
+- [Managed IT](https://petronellatech.com/managed-it-services/) - Infrastructure management
+
+Read our [Proxmox setup blog post](https://petronellatech.com/blog/proxmox-homelab-setup-guide/) for the full guide.
+
+**Petronella Technology Group** is in Raleigh, NC. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
+---
+
 ## About Petronella Technology Group
 
 This guide is maintained by [Petronella Technology Group, Inc.](https://www.petronellatech.com/) -- a cybersecurity and IT services firm specializing in infrastructure management, virtualization, compliance (CMMC, HIPAA, SOC 2, NIST), and managed IT for businesses across the United States.
